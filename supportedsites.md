@@ -1061,6 +1061,7 @@
  - **Picarto**
  - **PicartoVod**
  - **Piksel**
+ - **Pinayflixtv.com**
  - **Pinkbike**
  - **Pinterest**
  - **PinterestCollection**
